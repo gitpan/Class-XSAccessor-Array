@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                Class-XSAccessor-Array
+version:             0.01
+abstract:            Generate fast XS accessors without runtime compilation
+license:             perl
+author:              
+    - Steffen Mueller <smueller@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.42
+distribution_type:   module
+requires:     
+    AutoXS::Header:                0.02
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
