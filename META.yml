@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Class-XSAccessor-Array
-version:             0.02
+version:             0.03
 abstract:            Generate fast XS accessors without runtime compilation
 license:             perl
 author:              
